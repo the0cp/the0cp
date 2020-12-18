@@ -5,7 +5,8 @@
 -👯 I’m looking to collaborate on YOU  
 -🤔 I’m looking for help with YOU  
 -💬 Ask me about CODES?  
--📫 How to reach me:  
+-📫 How to reach me: 
+--Website: https://theodorecooper.github.io/
 --Twitter: @T_Ccooper  
 --EMAIL: ccooperr2005@gmail.com  
 -😄 Pronouns: ...  
