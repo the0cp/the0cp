@@ -1,4 +1,4 @@
-### Hi there 👋
+## ***Hi there 👋***
 
 * 🔭 I’m currently working on GNU/Linux    
 * 🌱 I’m currently learning GNU C & Qt   
