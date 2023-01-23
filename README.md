@@ -8,6 +8,3 @@
   * EMAIL: ccooperr2005@gmail.com  
 * ⚡ Fun fact: I love ~~sleeping~~ coding.  
 * How about ⭐star⭐ my repos? 👇👇👇💗💗💗
-
-![Theodore's GitHub stats](https://github-readme-stats.vercel.app/api?username=theodorecooper&show_icons=true&theme=cobalt)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theodorecooper&layout=compact&hide=html&theme=cobalt)
