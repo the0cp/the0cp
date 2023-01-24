@@ -7,4 +7,4 @@
   * Twitter: [@T_Ccooper](https://twitter.com/T_Ccooper/)   
   * EMAIL: ccooperr2005@gmail.com  
 * ⚡ Fun fact: I love ~~sleeping~~ coding.  
-* How about ⭐star⭐ my repos? 👇👇👇💗💗💗
+* How about star my repos? 👇
