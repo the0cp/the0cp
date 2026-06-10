@@ -1,5 +1,4 @@
 ## ***Hi there 👋 😶‍🌫️*** 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<img width="50%" src="https://github.com/user-attachments/assets/039e4d77-e57a-47f8-b47f-5d8a6edbcae8" />
 
-<img src="https://github.com/user-attachments/assets/d5eeb8a2-5d47-47b8-a22d-522638007c2e" />
