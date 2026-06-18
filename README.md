@@ -5,12 +5,9 @@ infrastructure, runtimes, compilers, and performance engineering.**
 
 Contributor to [Microsoft ONNX Runtime](https://github.com/microsoft/onnxruntime), with merged upstream C++ contributions.
 
-I enjoy working close to the hardware–runtime boundary: Linux device
-discovery, numerical correctness, execution graphs, virtual machines,
-concurrency, and systems performance.
+I enjoy working close to the hardware–runtime boundary: execution graphs, virtual machines, concurrency, and systems performance.
 
 - **Languages:** C, C++, Python, Go
-- **Systems:** Linux, GCC, CMake, Git
 - **Interests:** ML runtimes, inference systems, compilers and VMs, concurrency, networking, and performance engineering
 
 **Website:** [https://the0cp.cc](https://the0cp.cc)     
