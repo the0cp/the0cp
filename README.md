@@ -3,7 +3,7 @@
 **C/C++ and Linux systems developer focused on AI inference
 infrastructure, runtimes, compilers, and performance engineering.**
 
-Contributor to [Microsoft ONNX Runtime](https://github.com/microsoft/onnxruntime)
+Contributor to [Microsoft ONNX Runtime](https://github.com/microsoft/onnxruntime), with merged upstream C++ contributions.
 
 I enjoy working close to the hardware–runtime boundary: Linux device
 discovery, numerical correctness, execution graphs, virtual machines,
@@ -16,4 +16,4 @@ concurrency, and systems performance.
 **Website:** [https://the0cp.cc](https://the0cp.cc)     
 **Email:** [theo@the0cp.cc](mailto:theo@the0cp.cc) 
 
-*Beyond systems:* I also enjoy building practical things, including AI-products, Desktop Tools, Android applications, VSCode extensions, and Chrome extensions.
+*Beyond systems:* I also enjoy building practical products, including AI-powered applications, desktop tools, Android apps, VS Code extensions, and Chrome extensions.
