@@ -1,6 +1,6 @@
 ## ***Hi there 👋 😶‍🌫️*** 
 
-**C/C++ and Linux systems developer focused on AI inference
+**Undergraduate student and C/C++ and Linux systems developer focused on AI inference
 infrastructure, runtimes, compilers, and performance engineering.**
 
 Contributor to [Microsoft ONNX Runtime](https://github.com/microsoft/onnxruntime), with merged upstream C++ contributions.
